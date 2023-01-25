@@ -1,0 +1,514 @@
+{
+	"awards" : [
+		{
+			"category" : "Best Picture",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Avatar: The Way of Water"
+				},
+				{
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"film": "The Fabelmans"
+				},
+				{
+					"film": "Tár"
+				},
+				{
+					"film": "Top Gun: Maverick"
+				},
+				{
+					"film": "Triangle of Sadness"
+				},
+				{
+					"film": "Women Talking"
+				}
+			]
+		},
+		{
+			"category" : "Best Director",
+			"nominees" : [
+				{
+					"name": "Martin McDonagh",
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"name": "Daniel Kwan and Daniel Scheinert",
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"name": "Steven Spielberg",
+					"film": "The Fabelmans"
+				},
+				{
+					"name": "Todd Field",
+					"film": "Tár"
+				},
+				{
+					"name": "Ruben Ostlund",
+					"film": "Triangle of Sadness"
+				}
+			]
+		},
+		{
+			"category" : "Actress In A Leading Role",
+			"nominees" : [
+				{
+					"name": "Cate Blanchett",
+					"film": "Tár"
+				},
+				{
+					"name": "Ana de Armas",
+					"film": "Blonde"
+				},
+				{
+					"name": "Andrea Riseborough",
+					"film": "To Leslie"
+				},
+				{
+					"name": "Michelle Williams",
+					"film": "The Fabelmans"
+				},
+				{
+					"name": "Michelle Yeoh",
+					"film": "Everything Everywhere All at Once"
+				}
+			]
+		},
+		{
+			"category" : "Actor In A Leading Role",
+			"nominees" : [
+				{
+					"name": "Austin Butler",
+					"film": "Elvis"
+				},
+				{
+					"name": "Colin Farrell",
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"name": "Brendan Fraser",
+					"film": "The Whale"
+				},
+				{
+					"name": "Paul Mescal",
+					"film": "Aftersun"
+				},
+				{
+					"name": "Bill Nighy",
+					"film": "Lving"
+				}
+			]
+		},
+		{
+			"category" : "Actress In A Supporting Role",
+			"nominees" : [
+				{
+					"name": "Angela Bassett",
+					"film": "Black Panther: Wakanda Forever"
+				},
+				{
+					"name": "Hong Chau",
+					"film": "The Whale"
+				},
+				{
+					"name": "Kerry Condon",
+					"film": "Banshees of Inisherin"
+				},
+				{
+					"name": "Jamie Lee Curtis",
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"name": "Stephanie Hsu",
+					"film": "Everything Everywhere All at Once"
+				}
+			]
+		},
+		{
+			"category" : "Actor In A Supporting Role",
+			"nominees" : [
+				{
+					"name": "Brendan Gleeson",
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"name": "Brian Tyree Henry",
+					"film": "Causeway"
+				},
+				{
+					"name": "Judd Hirsch",
+					"film": "The Fabelmans"
+				},
+				{
+					"name": "Barry Keoghan",
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"name": "Ke Huy Quan",
+					"film": "Everything Everywhere All at Once"
+				}
+			]
+		},
+		{
+			"category" : "Cinematography",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Bardo, False Chronicle of a Handful of Truths"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "Empire of Light"
+				},
+				{
+					"film": "Tar"
+				}
+			]
+		},
+		{
+			"category" : "Film Editing",
+			"nominees" : [
+				{
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"film": "Tar"
+				},
+				{
+					"film": "Top Gun: Maverick"
+				}
+			]
+		},
+		{
+			"category" : "Writing (original Screenplay)",
+			"nominees" : [
+				{
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"film": "The Fabelmans"
+				},
+				{
+					"film": "Tár"
+				},
+				{
+					"film": "Triangle of Sadness"
+				}
+			]
+		},
+		{
+			"category" : "Writing (adapted Screenplay)",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Glass Onion: A Knives Out Mystery"
+				},
+				{
+					"film": "Living"
+				},
+				{
+					"film": "Top Gun: Maverick"
+				},
+				{
+					"film": "Women Talking"
+				}
+			]
+		},
+		{
+			"category" : "Production Design",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Avatar: The Way of Water"
+				},
+				{
+					"film": "Babylon"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "The Fabelmans"
+				}
+			]
+		},
+		{
+			"category" : "International Feature Film",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front",
+					"country": "Germany"
+				},
+				{
+					"film": "Argentina, 1985",
+					"country": "Argentina"
+				},
+				{
+					"film": "Close",
+					"country": "Belgium"
+				},
+				{
+					"film": "EO",
+					"country": "Poland"
+				},
+				{
+					"film": "The Quiet Girl",
+					"country": "Ireland"
+				}
+			]
+		},
+		{
+			"category" : "Animated Feature Film",
+			"nominees" : [
+				{
+					"film": "Guillermo del Toro’s Pinocchio"
+				},
+				{
+					"film": "Marcel the Shell With Shoes On"
+				},
+				{
+					"film": "Puss in Boots: The Last Wish"
+				},
+				{
+					"film": "The Sea Beast"
+				},
+				{
+					"film": "Turning Red"
+				}
+			]
+		},
+		{
+			"category" : "Short Film (animated)",
+			"nominees" : [
+				{
+					"film": "The Boy, the Mole, the Fox and the Horse"
+				},
+				{
+					"film": "The Flying Sailor"
+				},
+				{
+					"film": "Ice Merchants"
+				},
+				{
+					"film": "My Year of Dicks"
+				},
+				{
+					"film": "An Ostrich Told Me the World Is Fake and I Think I Believe It"
+				}
+			]
+		},
+		{
+			"category" : "Documentary Feature Film",
+			"nominees" : [
+				{
+					"film": "All That Breathes"
+				},
+				{
+					"film": "All the Beauty and the Bloodshed"
+				},
+				{
+					"film": "Fire of Love"
+				},
+				{
+					"film": "A House Made of Splinters"
+				},
+				{
+					"film": "Navalny"
+				}
+			]
+		},
+		{
+			"category" : "Documentary Short Film",
+			"nominees" : [
+				{
+					"film": "The Elephant Whisperers"
+				},
+				{
+					"film": "Haulout"
+				},
+				{
+					"film": "How Do You Measure a Year?"
+				},
+				{
+					"film": "The Martha Mitchell Effect"
+				},
+				{
+					"film": "Stranger at the Gate"
+				}
+			]
+		},
+		{
+			"category" : "Short Film (live Action)",
+			"nominees" : [
+				{
+					"film": "An Irish Goodbye"
+				},
+				{
+					"film": "Ivalu"
+				},
+				{
+					"film": "Le Pupille"
+				},
+				{
+					"film": "Night Ride"
+				},
+				{
+					"film": "The Red Suitcase"
+				}
+			]
+		},
+		{
+			"category" : "Visual Effects",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Avatar: The Way of Water"
+				},
+				{
+					"film": "The Batman"
+				},
+				{
+					"film": "Black Panther: Wakanda Forever"
+				},
+				{
+					"film": "Top Gun: Maverick"
+				}
+			]
+		},
+		{
+			"category" : "Music (Original Song)",
+			"nominees" : [
+				{
+					"song_name": "“Applause”",
+					"film": "Tell It Like a Woman"
+				},
+				{
+					"song_name": "“Hold My Hand”",
+					"film": "Top Gun: Maverick"
+				},
+				{
+					"song_name": "“Lift Me Up”",
+					"film": "Black Panther: Wakanda Forever"
+				},
+				{
+					"song_name": "Naatu Naatu",
+					"film": "RRR"
+				},
+				{
+					"song_name": "“This Is a Life”",
+					"film": "Everything Everywhere All at Once"
+				}
+			]
+		},
+		{
+			"category" : "Music (Original Score)",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Babylon"
+				},
+				{
+					"film": "The Banshees of Inisherin"
+				},
+				{
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"film": "The Fabelmans"
+				}
+			]
+		},
+		{
+			"category" : "Sound",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "Avatar: The Way of Water"
+				},
+				{
+					"film": "The Batman"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "Top Gun: Maverick"
+				}
+			]
+		},
+		{
+			"category" : "Makeup And Hairstyling",
+			"nominees" : [
+				{
+					"film": "All Quiet on the Western Front"
+				},
+				{
+					"film": "The Batman"
+				},
+				{
+					"film": "Black Panther: Wakanda Forever"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "The Whale"
+				}
+			]
+		},
+		{
+			"category" : "Costume Design",
+			"nominees" : [
+				{
+					"film": "Babylon"
+				},
+				{
+					"film": "Black Panther: Wakanda Forever"
+				},
+				{
+					"film": "Elvis"
+				},
+				{
+					"film": "Everything Everywhere All at Once"
+				},
+				{
+					"film": "Mrs. Harris Goes to Paris"
+				}
+			]
+		}
+	]
+}
