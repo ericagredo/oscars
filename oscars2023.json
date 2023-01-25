@@ -4,7 +4,8 @@
 			"category" : "Best Picture",
 			"nominees" : [
 				{
-					"film": "All Quiet on the Western Front"
+					"film": "All Quiet on the Western Front",
+					"film_img_url": "https://ericagredo.github.io/oscars/images/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg"
 				},
 				{
 					"film": "Avatar: The Way of Water"
